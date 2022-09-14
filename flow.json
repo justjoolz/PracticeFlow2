@@ -5,7 +5,7 @@
 		"testnet": "access.devnet.nodes.onflow.org:9000"
 	},
 	"contracts": {
-		"HelloWorld": "./PracticeFlow2/contracts/HelloWorld.cdc"
+		"HelloWorld": "./contracts/HelloWorld.cdc"
 	},
 
 	"accounts": {
